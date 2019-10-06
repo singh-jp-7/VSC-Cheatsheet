@@ -63,3 +63,19 @@ F8                   Go to next error or warning
 Shift+F8             Go to previous error or warning
 Ctrl+Shift+Tab       Navigate editor group history
 Alt+← / →            Go back/ forward
+
+
+
+
+
+Search and replace:
+
+
+
+Ctrl+F              Find
+Ctrl+H              Replace
+F3/ Shift+F3        Find next/previous
+Alt+Enter           Select all occurences of Find match
+Ctrl+D              Add selection to next Find match
+Ctrl+K Ctrl+D       Move last selection to next Find match
+Alt+C/ R / W        Toggle case-sensitive/ regex / whole word
