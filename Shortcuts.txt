@@ -49,7 +49,7 @@ Ctrl+T               Show all Symbols
 Ctrl+G               Go to Line...
 Ctrl+P               Go to File...
 Ctrl+Shift+O         Go to Symbol...
-Ctrl+Shift+M         Show Problems pane
+Ctrl+Shift+M         Show Problems panel
 
 
 Navigation:
@@ -72,7 +72,7 @@ F5                   Start/Continue
 Shift+F5             Stop
 F11/ Shift+F11       Step into/out
 F10                  Step over
-Ctrl+K Ctrl+I        Show hove
+Ctrl+K Ctrl+I        Show hover
 
 
 
