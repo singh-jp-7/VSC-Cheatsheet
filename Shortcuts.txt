@@ -1,5 +1,6 @@
 # VSC-Cheatsheet
-Includes Visual Studio COde shortcuts
+
+Includes Visual Studio Code shortcuts
 
 
 
@@ -18,7 +19,7 @@ Ctrl+K Ctrl+S        Keyboard Shortcuts
 
 
 
-Basicediting:
+Basic editing:
 
 
 Ctrl+X               Cut line (empty selection)
